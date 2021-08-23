@@ -1,0 +1,19 @@
+{
+    "baseUrl": "",
+    "defaultCommandTimeout": 5000,
+    "failOnNonZeroExit": false,
+    "chromeWebSecurity": false,
+    "viewportWidth": 1366,
+    "viewportHeight": 720,
+    "pageLoadTimeout": 30000,
+    "video": false,
+    "retries": 2,
+    "env": {
+        "dbgc": {  
+            "host": "host",
+            "user": "user",
+            "password": "password",
+            "database": "database"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+node_modules/**/*
+npm-debug.*
+allure-results
+allure-report
+cypress/screenshots
+cypress/support/filesTests/*
+
