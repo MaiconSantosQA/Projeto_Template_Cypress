@@ -1,4 +1,4 @@
-# Gamers Club Multigaming (QA automation)
+Template Automation (QA automation)
 
 Gamers Club multigaming QA automation repository. All instruction below was executed at Linux OS.
 
